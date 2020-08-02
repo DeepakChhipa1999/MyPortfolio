@@ -3,13 +3,13 @@
 ## Screenshot About Me
 
 
-![Code ](https://github.com/therruner/My-Portfolio/blob/master/webPerfil.png)
+![Code ](https://github.com/DeepakChhipa1999/MyPortfolio/blob/master/images/Untitled.png)
 
 
 ### Screenshot My Skills
 
 
-![Code ](https://github.com/therruner/My-Portfolio/blob/master/localhost_3000_%20(3)%20(1).png)
+![Code ](https://github.com/DeepakChhipa1999/MyPortfolio/blob/master/images/Untitled1.png)
 
 
 ### About The Project
@@ -22,7 +22,7 @@ This project was created to improve my skills in JavaScript, CSS, HTML and React
 
 #### 1 - Run git clone
 
-https: git clone https://github.com/therruner/My-Portfolio.git
+https: git clone https://github.com/DeepakChhipa1999/MyPortfolio.git
 
 #### 2 - Open a project folder
 
